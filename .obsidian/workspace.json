@@ -184,5 +184,24 @@
     }
   },
   "active": "9c471a5b5ad4c03e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "sync.sh",
+    "sync.log",
+    "analysis-write-a-skill.md",
+    "analysis-ubiquitous-language.md",
+    "analysis-triage-issue.md",
+    "analysis-to-prd.md",
+    "analysis-to-issues.md",
+    "analysis-tdd.md",
+    "analysis-setup-pre-commit.md",
+    "analysis-scaffold-exercises.md",
+    "analysis-request-refactor-plan.md",
+    "analysis-obsidian-vault.md",
+    "analysis-migrate-to-shoehorn.md",
+    "analysis-improve-codebase-architecture.md",
+    "analysis-grill-me.md",
+    "analysis-git-guardrails-claude-code.md",
+    "analysis-edit-article.md",
+    "analysis-design-an-interface.md"
+  ]
 }
